@@ -35,3 +35,7 @@ npm run build
 ## Contributors
 
 [![Contributors](https://img.shields.io/github/contributors/SoorajKothari/repo-gpt.svg)](https://github.com/SoorajKothari/repo-gpt/graphs/contributors)
+
+<a href = "https://github.com/SoorajKothari/repo-gpt/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=soorajkothari/repo-gpt"/>
+</a>
